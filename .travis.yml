@@ -7,3 +7,8 @@ scala:
 
 script:
   - sbt ++$TRAVIS_SCALA_VERSION clean update package
+
+branches:
+  only:
+    - master
+    - develop
