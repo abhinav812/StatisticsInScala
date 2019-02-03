@@ -1,2 +1,2 @@
-# StatisticsInScala
-Basic statistics practice test on HN
+# Statistics In Scala
+Scala workbench for basic statistics test.
